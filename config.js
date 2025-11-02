@@ -1,7 +1,7 @@
 // Runtime configuration loaded before the React bundle.
 // Update values here after deployment without rebuilding.
 window.__APP_CONFIG__ = {
-  ENV: 'UAT',
+  ENV: 'PROD',
   fireBaseConfig: {
     apiKey: 'AIzaSyByvZ4ShMb7ROh7mh9xHByn58bTZqQuDKQ',
     authDomain: 'weaver-crm.firebaseapp.com',
